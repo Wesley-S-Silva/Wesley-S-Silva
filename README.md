@@ -1,4 +1,4 @@
-## Olá eu sou o Wesley Santos, Desenvolvedor Python e amo tecnologia!
+## Olá eu sou o Wesley Santos,Desenvolvedor Python | Automações em Python | Dashboards Power BI | Analista de TI | Segurança da Informação | Inovação & Resultados
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
