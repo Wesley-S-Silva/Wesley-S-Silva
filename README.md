@@ -1,4 +1,9 @@
-## Olá eu me chamo Wesley, Desenvolvedor Python | Automações em Python | Dashboards Power BI | Analista de TI | Segurança da Informação | Inovação & Resultados
+## Olá me chamo Wesley,
+## Desenvolvedor Python | Automações em Python | Dashboards Power BI | Analista de TI | Segurança da Informação | Inovação & Resultados
+
+- 🏢 Fomação em Gestão de Ti | Cursando Engenharia de Software | Tech lover
+- ☕ Construindo o futuro, um código por vez 
+
 
 <div style="display: inline_block"><br>
   
