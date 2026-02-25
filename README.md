@@ -1,8 +1,8 @@
 ## Olá me chamo Wesley,
 ## Desenvolvedor Python Jr | Automações em Python | Dashboards Power BI | Analista de TI | Segurança da Informação | Inovação & Resultados
 
-- 🏢 Fomação em Gestão de Ti 
-- ✔️ Cursando Engenharia de Software
+- ✔️ Fomação em Gestão de Ti 
+- 🏢 Cursando Engenharia de Software
 - ❤️ Apaixonado por Tecnologia 
 
 <div style="display: inline_block"><br>
